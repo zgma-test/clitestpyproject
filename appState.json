@@ -31,7 +31,7 @@
     "currentFileId": "ae8f8c54-478a-456e-bbdc-61b40a82a708",
     "resources": {},
     "customTemplate": {
-      "syntax": "JSON",
+      "syntax": "YAML",
       "overrideDefault": false,
       "dialect": null,
       "definitions": null
@@ -66,7 +66,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1592903675738
+    "lastSave": 1592987885653
   },
   "VCS_STATE": {
     "provider": "GitHub",
